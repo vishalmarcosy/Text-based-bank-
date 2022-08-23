@@ -1,1 +1,1 @@
-# Text-based-bank-
+# Text-based-bank-Build a text-based bank application in Java. In this application we can Add Customers,Change the Name of Customers,Check Balance,Modify Balance & get the Summary of bank account.[JAVA]
